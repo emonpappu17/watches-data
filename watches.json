@@ -1,0 +1,7 @@
+[
+  { "brand": "Apple", "model": "Apple Watch Series 8", "price": 399 },
+  { "brand": "Samsung", "model": "Galaxy Watch 6", "price": 349 },
+  { "brand": "Fitbit", "model": "Fitbit Sense 2", "price": 299 },
+  { "brand": "Garmin", "model": "Garmin Venu 2", "price": 399 },
+  { "brand": "Amazfit", "model": "Amazfit GTS 4", "price": 199 }
+]
